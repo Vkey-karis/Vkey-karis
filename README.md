@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vkey-karis
+- 👀 I’m interested in Web development (html css SQL). Also intrested in c and cpp 
+- 🌱 I’m currently learning HTML and CSS 
+- 💞️ I’m looking to collaborate on any relevant projects
+- 📫 You can reach me via email kamaukaris02@gmail.com 
